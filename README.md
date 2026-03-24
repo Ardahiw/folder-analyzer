@@ -120,3 +120,9 @@ Katkıda bulunmak istersen pull request gönderebilirsin.
 ## 📄 Lisans
 
 Bu proje MIT lisansı ile yayınlanmıştır.
+
+
+## Download
+
+En yeni Windows yürütülebilir dosyasını bu deponun **Releases**  bölümünden indirebilirsiniz.
+
