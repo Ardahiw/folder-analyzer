@@ -19,7 +19,7 @@ Klasör yapısını analiz ederek alt klasörlerdeki dosya sayılarını inceley
 
 ## 🖥️ Ekran Görüntüsü
 
-> Buraya uygulamanın ekran görüntüsünü ekleyebilirsin
+![App Screenshot](images/screenshot.png)
 
 ---
 
