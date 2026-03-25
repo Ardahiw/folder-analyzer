@@ -3,6 +3,14 @@
 Klasör yapısını analiz ederek alt klasörlerdeki dosya sayılarını inceleyen, filtreleyen ve dışa aktaran modern bir masaüstü uygulamasıdır.
 
 ---
+🚀 Mevcut Sürüm: v1.1
+
+## v1.1'deki Yenilikler
+- Geliştirilmiş kullanıcı arayüzü
+- Daha iyi klasör önizleme deneyimi
+- Küçük hata düzeltmeleri
+- Performans iyileştirmeleri
+
 
 ## 🚀 Özellikler
 
@@ -122,7 +130,6 @@ Katkıda bulunmak istersen pull request gönderebilirsin.
 Bu proje MIT lisansı ile yayınlanmıştır.
 
 
-## Download
-
-En yeni Windows yürütülebilir dosyasını bu deponun **Releases**  bölümünden indirebilirsiniz.
+## İndir
+En son çalıştırılabilir sürümü Sürümler bölümünden indirebilirsiniz.
 

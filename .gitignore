@@ -1,30 +1,11 @@
-# Python
 __pycache__/
-*.py[cod]
+*.pyc
 *.pyo
-*.pyd
-
-# Virtual environments
-venv/
-.venv/
-env/
-
-# IDE
-.idea/
-.vscode/
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Build
 build/
 dist/
+*.exe
 *.spec
-
-# Project files
-workspace.xml
-misc.xml
-modules.xml
-profiles_settings.xml
-*.iml
+.venv/
+venv/
+.idea/
+.vscode/
